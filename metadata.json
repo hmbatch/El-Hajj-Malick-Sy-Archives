@@ -1,0 +1,6 @@
+{
+  "name": "Malick Sy Archive",
+  "description": "An interactive scholarly, linguistic, and spiritual reader for the canonical literary corpus of El Hajj Malick Sy (1855–1922).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
