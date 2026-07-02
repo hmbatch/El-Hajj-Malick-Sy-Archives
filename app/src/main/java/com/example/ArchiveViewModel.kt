@@ -342,6 +342,11 @@ class ArchiveViewModel(application: Application) : AndroidViewModel(application)
 
     fun translateNextStanza() {
         val work = _selectedWork.value
+        val maxVerses = CorpusData.getAuthenticVerseCount(work.index)
+        if (work.verses.size >= maxVerses) {
+            _translationState.value = TranslationState.Success("This manuscript is already fully translated ($maxVerses/$maxVerses stanzas)!")
+            return
+        }
         val nextIndex = work.verses.size + 1
         _translationState.value = TranslationState.TranslatingNext(nextIndex)
 
@@ -378,6 +383,11 @@ class ArchiveViewModel(application: Application) : AndroidViewModel(application)
     fun translateAllStanzasSequentially() {
         stopSequentialTranslation()
         val work = _selectedWork.value
+        val maxVerses = CorpusData.getAuthenticVerseCount(work.index)
+        if (work.verses.size >= maxVerses) {
+            _translationState.value = TranslationState.Success("This manuscript is already fully translated ($maxVerses/$maxVerses stanzas)!")
+            return
+        }
         _translationState.value = TranslationState.TranslatingAll(work.verses.size + 1, 0)
 
         translationJob = viewModelScope.launch {
@@ -386,6 +396,10 @@ class ArchiveViewModel(application: Application) : AndroidViewModel(application)
             while (true) {
                 val currentWork = _selectedWork.value
                 val nextIndex = currentWork.verses.size + 1
+                if (nextIndex > maxVerses) {
+                    _translationState.value = TranslationState.Success("Successfully translated all $maxVerses stanzas!")
+                    break
+                }
                 _translationState.value = TranslationState.TranslatingAll(nextIndex, count)
 
                 val prompt = "Generate a synchronized dataset for Verse $nextIndex of ${currentWork.titleTransliteration}."

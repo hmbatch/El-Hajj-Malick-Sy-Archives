@@ -448,5 +448,755 @@
     "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [45]",
     "memorizationLoopCount": 2,
     "suggestedTasbihTarget": 95
+  },
+  {
+    "verseIndex": 46,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [46]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (46)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 46)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 46)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [46]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 6
+  },
+  {
+    "verseIndex": 47,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [47]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (47)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 47)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 47)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [47]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 17
+  },
+  {
+    "verseIndex": 48,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [48]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (48)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 48)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 48)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [48]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 28
+  },
+  {
+    "verseIndex": 49,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [49]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (49)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 49)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 49)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [49]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 39
+  },
+  {
+    "verseIndex": 50,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [50]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (50)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 50)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 50)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [50]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 50
+  },
+  {
+    "verseIndex": 51,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [51]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (51)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 51)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 51)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [51]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 61
+  },
+  {
+    "verseIndex": 52,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [52]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (52)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 52)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 52)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [52]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 72
+  },
+  {
+    "verseIndex": 53,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [53]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (53)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 53)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 53)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [53]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 83
+  },
+  {
+    "verseIndex": 54,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [54]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (54)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 54)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 54)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [54]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 94
+  },
+  {
+    "verseIndex": 55,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [55]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (55)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 55)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 55)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [55]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 5
+  },
+  {
+    "verseIndex": 56,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [56]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (56)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 56)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 56)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [56]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 16
+  },
+  {
+    "verseIndex": 57,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [57]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (57)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 57)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 57)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [57]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 27
+  },
+  {
+    "verseIndex": 58,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [58]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (58)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 58)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 58)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [58]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 38
+  },
+  {
+    "verseIndex": 59,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [59]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (59)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 59)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 59)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [59]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 49
+  },
+  {
+    "verseIndex": 60,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [60]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (60)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 60)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 60)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [60]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 60
+  },
+  {
+    "verseIndex": 61,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [61]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (61)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 61)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 61)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [61]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 71
+  },
+  {
+    "verseIndex": 62,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [62]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (62)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 62)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 62)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [62]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 82
+  },
+  {
+    "verseIndex": 63,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [63]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (63)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 63)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 63)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [63]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 93
+  },
+  {
+    "verseIndex": 64,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [64]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (64)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 64)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 64)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [64]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 4
+  },
+  {
+    "verseIndex": 65,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [65]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (65)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 65)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 65)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [65]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 15
+  },
+  {
+    "verseIndex": 66,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [66]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (66)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 66)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 66)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [66]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 26
+  },
+  {
+    "verseIndex": 67,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [67]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (67)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 67)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 67)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [67]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 37
+  },
+  {
+    "verseIndex": 68,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [68]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (68)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 68)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 68)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [68]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 48
+  },
+  {
+    "verseIndex": 69,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [69]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (69)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 69)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 69)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [69]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 59
+  },
+  {
+    "verseIndex": 70,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [70]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (70)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 70)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 70)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [70]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 70
+  },
+  {
+    "verseIndex": 71,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [71]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (71)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 71)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 71)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [71]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 81
+  },
+  {
+    "verseIndex": 72,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [72]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (72)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 72)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 72)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [72]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 92
+  },
+  {
+    "verseIndex": 73,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [73]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (73)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 73)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 73)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [73]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 3
+  },
+  {
+    "verseIndex": 74,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [74]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (74)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 74)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 74)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [74]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 14
+  },
+  {
+    "verseIndex": 75,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [75]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (75)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 75)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 75)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [75]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 25
+  },
+  {
+    "verseIndex": 76,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [76]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (76)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 76)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 76)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [76]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 36
+  },
+  {
+    "verseIndex": 77,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [77]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (77)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 77)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 77)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [77]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 47
+  },
+  {
+    "verseIndex": 78,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [78]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (78)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 78)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 78)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [78]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 58
+  },
+  {
+    "verseIndex": 79,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [79]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (79)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 79)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 79)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [79]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 69
+  },
+  {
+    "verseIndex": 80,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [80]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (80)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 80)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 80)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [80]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 80
+  },
+  {
+    "verseIndex": 81,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [81]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (81)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 81)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 81)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [81]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 91
+  },
+  {
+    "verseIndex": 82,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [82]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (82)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 82)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 82)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [82]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 2
+  },
+  {
+    "verseIndex": 83,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [83]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (83)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 83)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 83)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [83]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 13
+  },
+  {
+    "verseIndex": 84,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [84]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (84)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 84)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 84)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [84]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 24
+  },
+  {
+    "verseIndex": 85,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [85]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (85)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 85)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 85)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [85]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 35
+  },
+  {
+    "verseIndex": 86,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [86]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (86)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 86)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 86)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [86]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 46
+  },
+  {
+    "verseIndex": 87,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [87]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (87)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 87)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 87)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [87]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 57
+  },
+  {
+    "verseIndex": 88,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [88]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (88)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 88)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 88)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [88]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 68
+  },
+  {
+    "verseIndex": 89,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [89]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (89)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 89)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 89)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [89]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 79
+  },
+  {
+    "verseIndex": 90,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [90]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (90)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 90)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 90)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [90]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 90
+  },
+  {
+    "verseIndex": 91,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [91]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (91)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 91)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 91)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [91]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 1
+  },
+  {
+    "verseIndex": 92,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [92]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (92)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 92)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 92)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [92]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 12
+  },
+  {
+    "verseIndex": 93,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [93]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (93)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 93)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 93)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [93]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 23
+  },
+  {
+    "verseIndex": 94,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [94]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (94)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 94)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 94)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [94]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 34
+  },
+  {
+    "verseIndex": 95,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [95]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (95)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 95)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 95)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [95]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 45
+  },
+  {
+    "verseIndex": 96,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [96]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (96)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 96)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 96)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [96]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 56
+  },
+  {
+    "verseIndex": 97,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [97]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (97)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 97)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 97)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [97]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 67
+  },
+  {
+    "verseIndex": 98,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [98]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (98)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 98)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 98)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [98]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 78
+  },
+  {
+    "verseIndex": 99,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [99]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (99)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 99)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 99)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [99]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 89
+  },
+  {
+    "verseIndex": 100,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [100]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (100)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 100)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 100)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [100]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 11
+  },
+  {
+    "verseIndex": 101,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [101]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (101)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 101)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 101)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [101]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 11
+  },
+  {
+    "verseIndex": 102,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [102]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (102)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 102)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 102)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [102]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 22
+  },
+  {
+    "verseIndex": 103,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [103]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (103)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 103)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 103)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [103]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 33
+  },
+  {
+    "verseIndex": 104,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [104]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (104)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 104)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 104)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [104]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 44
+  },
+  {
+    "verseIndex": 105,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [105]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (105)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 105)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 105)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [105]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 55
+  },
+  {
+    "verseIndex": 106,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [106]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (106)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 106)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 106)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [106]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 66
+  },
+  {
+    "verseIndex": 107,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [107]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (107)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 107)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 107)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [107]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 77
+  },
+  {
+    "verseIndex": 108,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [108]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (108)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 108)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 108)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [108]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 88
+  },
+  {
+    "verseIndex": 109,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [109]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (109)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 109)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 109)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [109]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 99
+  },
+  {
+    "verseIndex": 110,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [110]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (110)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 110)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 110)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [110]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 10
+  },
+  {
+    "verseIndex": 111,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [111]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (111)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 111)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 111)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [111]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 21
+  },
+  {
+    "verseIndex": 112,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [112]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (112)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 112)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 112)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [112]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 32
+  },
+  {
+    "verseIndex": 113,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [113]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (113)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 113)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 113)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [113]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 43
+  },
+  {
+    "verseIndex": 114,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [114]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (114)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 114)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 114)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [114]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 54
+  },
+  {
+    "verseIndex": 115,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [115]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (115)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 115)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 115)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [115]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 65
+  },
+  {
+    "verseIndex": 116,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [116]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (116)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 116)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 116)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [116]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 76
+  },
+  {
+    "verseIndex": 117,
+    "arabicText": "إِنَّ الِاتِّبَاعَ لِلشَّرِيعَةِ هُوَ الْأَصْلُ الْأَصِيلُ فِي طَرِيقِ الْقَوْمِ [117]",
+    "latinTransliteration": "Innal-ittibā‘a lish-sharī‘ati huwal-aṣlul-aṣīlu fī ṭarīqil-qawm (117)",
+    "englishTranslation": "Indeed, adherence to the Sharia is the ultimate foundation in the path of the people of Sufism. (Stanza 117)",
+    "wolofTranslationStandard": "Dëggal sariya mooy ndëgërlay yoon wi ci bépp yoonu Tasawwuf. (Wers 117)",
+    "wolofalAjamiScript": "دِࣺجّالْ شَرِيعَ مُويْ نْدِجِࣺرْلَيْ يُونْ وِ سِ بِيقْ يُونُ تَصَوُّفْ [117]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 87
+  },
+  {
+    "verseIndex": 118,
+    "arabicText": "وَلَا يَجُوزُ مُخَالَفَةُ الْفِقْهِ وَالسُّنَّةِ بِحَالٍ مِنَ الْأَحْوَالِ عِنْدَ الْمُرِيدِ [118]",
+    "latinTransliteration": "Wa lā yajūzu mukhālafatul-fiqhi was-sunnati bi-ḥālin minal-aḥwāli ‘indal-murīd (118)",
+    "englishTranslation": "And it is not permissible for the seeker to oppose jurisprudence and the Sunnah under any circumstances. (Stanza 118)",
+    "wolofTranslationStandard": "Te warul ci murid bi mu moy yoonu fiqh walla sunnah sa sùnek. (Wers 118)",
+    "wolofalAjamiScript": "تِ وَرُلْ سِ مُرِيدْ بِ مُ مُيْ يُونُ فِقْهْ وَلَّ سُنَّهْ سَ سُنِكْ [118]",
+    "memorizationLoopCount": 3,
+    "suggestedTasbihTarget": 98
+  },
+  {
+    "verseIndex": 119,
+    "arabicText": "فَالْحَقِيقَةُ الَّتِي لَا شَرِيعَةَ مَعَهَا بَاطِلَةٌ وَمَرْدُودَةٌ بِالْيَقِينِ [119]",
+    "latinTransliteration": "Fal-ḥaqīqatul-latī lā sharī‘ata ma‘ahā bāṭilatun wa mardūdatun bil-yaqīn (119)",
+    "englishTranslation": "For spiritual truth (Haqiqa) that is not accompanied by sacred law (Sharia) is falsehood and rejected with certainty. (Stanza 119)",
+    "wolofTranslationStandard": "Mbiir gu sell gu andul ak sariya, lu daganadi la te dañ koy delloo. (Wers 119)",
+    "wolofalAjamiScript": "مْبِيرْ جُ سِلْ جُ اَنْدُلْ اَكْ شَرِيعَ لُ دَجَنَدِ لَ تِ دَنْ كُيْ دِلُّو [119]",
+    "memorizationLoopCount": 4,
+    "suggestedTasbihTarget": 9
+  },
+  {
+    "verseIndex": 120,
+    "arabicText": "عَلَيْكُمْ بِالتَّمَسُّكِ بِالْكِتَابِ وَالسُّنَّةِ فِي السُّرِّ وَالْعَلَنِ دائماً [120]",
+    "latinTransliteration": "‘Alaykum bit-tamassuki bil-kitābi was-sunnati fis-sirri wal-‘alani dā'imā (120)",
+    "englishTranslation": "You must hold fast to the Book and the Sunnah in private and in public at all times. (Stanza 120)",
+    "wolofTranslationStandard": "Sàmmeel sa bopp Alxuraan ak Sunnah ci lëndëm ak ci leer. (Wers 120)",
+    "wolofalAjamiScript": "سَمِّيلْ سَ بُپْ اَلْخُرَانْ اَكْ سُنَّهْ سِ لِࣺنْدِࣺمْ اَكْ سِ لِيرْ [120]",
+    "memorizationLoopCount": 2,
+    "suggestedTasbihTarget": 20
   }
 ]

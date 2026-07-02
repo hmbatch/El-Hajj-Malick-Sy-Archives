@@ -842,7 +842,9 @@ fun ReaderTab(
                         translationState = translationState,
                         onTranslateNext = onTranslateNext,
                         onTranslateAll = onTranslateAll,
-                        onStopTranslation = onStopTranslation
+                        onStopTranslation = onStopTranslation,
+                        currentVerseCount = work.verses.size,
+                        maxVersesCount = CorpusData.getAuthenticVerseCount(work.index)
                     )
                 }
             }
@@ -856,6 +858,8 @@ fun AiTranslationControlsPanel(
     onTranslateNext: () -> Unit,
     onTranslateAll: () -> Unit,
     onStopTranslation: () -> Unit,
+    currentVerseCount: Int,
+    maxVersesCount: Int,
     modifier: Modifier = Modifier
 ) {
     Card(
@@ -894,6 +898,38 @@ fun AiTranslationControlsPanel(
                 fontSize = 12.sp,
                 color = HadraSilver,
                 lineHeight = 16.sp
+            )
+            Spacer(modifier = Modifier.height(12.dp))
+
+            // Progress bar and details
+            Row(
+                modifier = Modifier.fillMaxWidth(),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.SpaceBetween
+            ) {
+                Text(
+                    text = "Sync Progress: $currentVerseCount / $maxVersesCount stanzas",
+                    fontSize = 11.sp,
+                    fontWeight = FontWeight.Medium,
+                    color = HadraGoldLight
+                )
+                val percent = if (maxVersesCount > 0) (currentVerseCount.toFloat() / maxVersesCount) else 0f
+                Text(
+                    text = "${(percent * 100).toInt()}%",
+                    fontSize = 11.sp,
+                    fontWeight = FontWeight.Bold,
+                    color = HadraGold
+                )
+            }
+            Spacer(modifier = Modifier.height(6.dp))
+            LinearProgressIndicator(
+                progress = if (maxVersesCount > 0) (currentVerseCount.toFloat() / maxVersesCount).coerceIn(0f, 1f) else 0f,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(6.dp)
+                    .clip(RoundedCornerShape(3.dp)),
+                color = HadraGold,
+                trackColor = HadraEmerald.copy(alpha = 0.2f)
             )
             Spacer(modifier = Modifier.height(14.dp))
 

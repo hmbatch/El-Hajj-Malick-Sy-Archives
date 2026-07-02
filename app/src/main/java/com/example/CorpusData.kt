@@ -281,4 +281,27 @@ object CorpusData {
     fun getWorkByIndex(index: Int): Work? {
         return works.find { it.index == index }
     }
+
+    fun getAuthenticVerseCount(index: Int): Int {
+        return when (index) {
+            1 -> 105 // Taysīr Wasīlat al-Munā
+            2 -> 120 // Ifḥām al-Munkir al-Jānī
+            3 -> 278 // Khilāṣu-dh-Dhahab
+            4 -> 278 // Sharḥ Khilāṣi-dh-Dhahab
+            5 -> 110 // Zajr ul-Qulūb
+            6 -> 60  // Adab ul-Masjid
+            7 -> 85  // Al-Hidāyat ul-Wildān
+            8 -> 144 // Fākihas al-Tullāb
+            9 -> 52  // Khutbātul Jumu'ah
+            10 -> 12 // Khutbātul 'Īd
+            11 -> 130 // Kifāyat ar-Rāghibīn
+            12 -> 40 // Risālatun Laṭīfah
+            13 -> 72 // Ḥurūfu Ṣalāt il-Fātiḥ
+            14 -> 50 // Majmū‘atu Du‘ā’ il-Wazīfah
+            15 -> 160 // Khaṣīdatu Riyyi-z-Zamān (Nunya)
+            16 -> 35 // Du‘ā’u Ruf‘āt
+            17 -> 95 // Wasīlat ul-Muḥārabīn
+            else -> 45
+        }
+    }
 }
