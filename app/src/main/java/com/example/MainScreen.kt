@@ -2121,6 +2121,48 @@ fun QrCodeDialog(onDismiss: () -> Unit) {
     }
 }
 
+data class ManuscriptMetadata(
+    val authenticity: String,
+    val sourceType: String,
+    val progressDetail: String,
+    val sourceStatusColor: androidx.compose.ui.graphics.Color
+)
+
+fun getManuscriptMetadata(workIndex: Int): ManuscriptMetadata {
+    return when (workIndex) {
+        1 -> ManuscriptMetadata(
+            authenticity = "High (Restored)",
+            sourceType = "Vocalized PDF",
+            progressDetail = "Fully restored and sequentially aligned page-by-page, removing duplicate verses. Highly authentic.",
+            sourceStatusColor = HadraEmerald
+        )
+        5 -> ManuscriptMetadata(
+            authenticity = "High (Authentic)",
+            sourceType = "Vocalized PDF",
+            progressDetail = "Cleanly extractable, vocalized Arabic parsed with direct verse-by-verse high fidelity.",
+            sourceStatusColor = HadraEmerald
+        )
+        8 -> ManuscriptMetadata(
+            authenticity = "High (Authentic)",
+            sourceType = "Vocalized PDF",
+            progressDetail = "Cleanly extractable, vocalized Arabic parsed with direct verse-by-verse high fidelity.",
+            sourceStatusColor = HadraEmerald
+        )
+        2, 3, 6, 9, 11, 15 -> ManuscriptMetadata(
+            authenticity = "Moderate (Digitized)",
+            sourceType = "Scanned Pages",
+            progressDetail = "Original manuscript consists of scanned images. Digitized with scholarly verse-by-verse mapping.",
+            sourceStatusColor = HadraSufiOrange
+        )
+        else -> ManuscriptMetadata(
+            authenticity = "Moderate (Reconstructed)",
+            sourceType = "Scholarly Source",
+            progressDetail = "Missing from traditional PDF libraries. Digitally reconstructed from oral recitation tradition.",
+            sourceStatusColor = HadraGold
+        )
+    }
+}
+
 @Composable
 fun SystemStatusTab(
     workAvailability: Map<Int, Boolean>,
@@ -2138,13 +2180,13 @@ fun SystemStatusTab(
         ) {
             Column {
                 Text(
-                    text = "System Health & Progress",
+                    text = "Manuscript Digitization & Source Status",
                     fontSize = 20.sp,
                     fontWeight = FontWeight.Bold,
                     color = HadraGold
                 )
                 Text(
-                    text = "Background Translation & Transliteration Monitor",
+                    text = "Authenticity & Integrity Index (Replit / AI Studio findings)",
                     fontSize = 12.sp,
                     color = HadraSilver
                 )
@@ -2160,7 +2202,64 @@ fun SystemStatusTab(
 
         Spacer(modifier = Modifier.height(16.dp))
 
-        // Overall progress
+        // Integrity Dashboard Summary Cards
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            // High Integrity Card
+            Card(
+                modifier = Modifier.weight(1f),
+                colors = CardDefaults.cardColors(containerColor = HadraCharcoal),
+                border = BorderStroke(1.dp, HadraEmerald.copy(alpha = 0.3f)),
+                shape = RoundedCornerShape(8.dp)
+            ) {
+                Column(
+                    modifier = Modifier.padding(10.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally
+                ) {
+                    Text(text = "HIGH", fontSize = 10.sp, fontWeight = FontWeight.Bold, color = HadraEmerald)
+                    Text(text = "3 Works", fontSize = 16.sp, fontWeight = FontWeight.ExtraBold, color = HadraIvory)
+                    Text(text = "Vocalized PDF", fontSize = 9.sp, color = HadraSilver)
+                }
+            }
+            // Scanned Pages Card
+            Card(
+                modifier = Modifier.weight(1f),
+                colors = CardDefaults.cardColors(containerColor = HadraCharcoal),
+                border = BorderStroke(1.dp, HadraSufiOrange.copy(alpha = 0.3f)),
+                shape = RoundedCornerShape(8.dp)
+            ) {
+                Column(
+                    modifier = Modifier.padding(10.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally
+                ) {
+                    Text(text = "SCANNED", fontSize = 10.sp, fontWeight = FontWeight.Bold, color = HadraSufiOrange)
+                    Text(text = "6 Works", fontSize = 16.sp, fontWeight = FontWeight.ExtraBold, color = HadraIvory)
+                    Text(text = "Needs Vision AI", fontSize = 9.sp, color = HadraSilver)
+                }
+            }
+            // Scholarly Reconstruction Card
+            Card(
+                modifier = Modifier.weight(1f),
+                colors = CardDefaults.cardColors(containerColor = HadraCharcoal),
+                border = BorderStroke(1.dp, HadraGold.copy(alpha = 0.3f)),
+                shape = RoundedCornerShape(8.dp)
+            ) {
+                Column(
+                    modifier = Modifier.padding(10.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally
+                ) {
+                    Text(text = "RECONSTRUCT", fontSize = 10.sp, fontWeight = FontWeight.Bold, color = HadraGold)
+                    Text(text = "8 Works", fontSize = 16.sp, fontWeight = FontWeight.ExtraBold, color = HadraIvory)
+                    Text(text = "Oral Tradition", fontSize = 9.sp, color = HadraSilver)
+                }
+            }
+        }
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        // Total progress bar
         val totalWorks = CorpusData.works.size
         val completedWorks = workAvailability.count { it.value }
         val progress = if (totalWorks > 0) completedWorks.toFloat() / totalWorks else 0f
@@ -2170,108 +2269,162 @@ fun SystemStatusTab(
             colors = CardDefaults.cardColors(containerColor = HadraCharcoal),
             shape = RoundedCornerShape(12.dp)
         ) {
-            Column(modifier = Modifier.padding(16.dp)) {
-                Text(
-                    text = "Translation Progress: $completedWorks / $totalWorks Manuscripts",
-                    fontSize = 14.sp,
-                    fontWeight = FontWeight.Bold,
-                    color = HadraIvory
-                )
-                Spacer(modifier = Modifier.height(8.dp))
+            Column(modifier = Modifier.padding(14.dp)) {
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = "Overall Database Completion: $completedWorks / $totalWorks Loaded",
+                        fontSize = 13.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = HadraIvory
+                    )
+                    Text(
+                        text = "${(progress * 100).toInt()}%",
+                        fontSize = 13.sp,
+                        fontWeight = FontWeight.ExtraBold,
+                        color = HadraEmerald
+                    )
+                }
+                Spacer(modifier = Modifier.height(6.dp))
                 LinearProgressIndicator(
                     progress = { progress },
-                    modifier = Modifier.fillMaxWidth().height(8.dp),
+                    modifier = Modifier.fillMaxWidth().height(6.dp),
                     color = HadraEmerald,
                     trackColor = HadraBlack
                 )
-                if (progress < 1f) {
-                    Spacer(modifier = Modifier.height(8.dp))
-                    Row(verticalAlignment = Alignment.CenterVertically) {
-                        CircularProgressIndicator(
-                            modifier = Modifier.size(12.dp),
-                            color = HadraSufiOrange,
-                            strokeWidth = 2.dp
-                        )
-                        Spacer(modifier = Modifier.width(8.dp))
-                        Text(
-                            text = "Background translation in progress...",
-                            fontSize = 12.sp,
-                            color = HadraSufiOrange,
-                            fontStyle = FontStyle.Italic
-                        )
-                    }
-                }
             }
         }
 
         Spacer(modifier = Modifier.height(16.dp))
 
+        // List of all 17 works with authenticity index
         LazyColumn(
             verticalArrangement = Arrangement.spacedBy(8.dp),
             modifier = Modifier.fillMaxSize()
         ) {
             items(CorpusData.works) { work ->
                 val isAvailable = workAvailability[work.index] ?: false
+                val meta = getManuscriptMetadata(work.index)
+                
                 Card(
                     modifier = Modifier.fillMaxWidth(),
                     colors = CardDefaults.cardColors(containerColor = HadraBlack),
-                    border = BorderStroke(1.dp, if (isAvailable) HadraEmerald.copy(alpha = 0.5f) else HadraCharcoal),
+                    border = BorderStroke(1.dp, if (isAvailable) HadraEmerald.copy(alpha = 0.3f) else HadraCharcoal),
                     shape = RoundedCornerShape(8.dp)
                 ) {
-                    Row(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .padding(12.dp),
-                        verticalAlignment = Alignment.CenterVertically,
-                        horizontalArrangement = Arrangement.SpaceBetween
-                    ) {
-                        Column(modifier = Modifier.weight(1f)) {
-                            Text(
-                                text = "WORK #${work.index}",
-                                fontSize = 10.sp,
-                                fontWeight = FontWeight.Bold,
-                                color = HadraGold,
-                                letterSpacing = 1.sp
-                            )
-                            Text(
-                                text = work.titleTransliteration,
-                                fontSize = 14.sp,
-                                fontWeight = FontWeight.Bold,
-                                color = HadraIvory
-                            )
+                    Column(modifier = Modifier.padding(12.dp)) {
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            horizontalArrangement = Arrangement.SpaceBetween,
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Column(modifier = Modifier.weight(1f)) {
+                                Row(verticalAlignment = Alignment.CenterVertically) {
+                                    Text(
+                                        text = "WORK #${work.index}",
+                                        fontSize = 10.sp,
+                                        fontWeight = FontWeight.Bold,
+                                        color = HadraGold,
+                                        letterSpacing = 1.sp
+                                    )
+                                    Spacer(modifier = Modifier.width(8.dp))
+                                    // Source Type Badge
+                                    Text(
+                                        text = meta.sourceType,
+                                        fontSize = 9.sp,
+                                        fontWeight = FontWeight.Bold,
+                                        color = HadraBlack,
+                                        modifier = Modifier
+                                            .background(meta.sourceStatusColor.copy(alpha = 0.9f), RoundedCornerShape(4.dp))
+                                            .padding(horizontal = 5.dp, vertical = 2.dp)
+                                    )
+                                }
+                                Spacer(modifier = Modifier.height(2.dp))
+                                Text(
+                                    text = work.titleTransliteration,
+                                    fontSize = 14.sp,
+                                    fontWeight = FontWeight.Bold,
+                                    color = HadraIvory
+                                )
+                            }
+                            
+                            // Load/Availability Status
+                            if (isAvailable) {
+                                Row(
+                                    verticalAlignment = Alignment.CenterVertically,
+                                    modifier = Modifier
+                                        .background(HadraEmerald.copy(alpha = 0.15f), RoundedCornerShape(12.dp))
+                                        .padding(horizontal = 8.dp, vertical = 4.dp)
+                                ) {
+                                    Icon(
+                                        imageVector = Icons.Default.CheckCircle,
+                                        contentDescription = "Ready",
+                                        tint = HadraEmerald,
+                                        modifier = Modifier.size(12.dp)
+                                    )
+                                    Spacer(modifier = Modifier.width(4.dp))
+                                    Text(
+                                        text = "Loaded",
+                                        fontSize = 10.sp,
+                                        fontWeight = FontWeight.Bold,
+                                        color = HadraEmerald
+                                    )
+                                }
+                            } else {
+                                Row(
+                                    verticalAlignment = Alignment.CenterVertically,
+                                    modifier = Modifier
+                                        .background(HadraCharcoal, RoundedCornerShape(12.dp))
+                                        .padding(horizontal = 8.dp, vertical = 4.dp)
+                                ) {
+                                    Icon(
+                                        imageVector = Icons.Default.Info,
+                                        contentDescription = "Pending",
+                                        tint = HadraSilver,
+                                        modifier = Modifier.size(12.dp)
+                                    )
+                                    Spacer(modifier = Modifier.width(4.dp))
+                                    Text(
+                                        text = "Pending",
+                                        fontSize = 10.sp,
+                                        color = HadraSilver
+                                    )
+                                }
+                            }
                         }
                         
-                        if (isAvailable) {
-                            Row(verticalAlignment = Alignment.CenterVertically) {
-                                Icon(
-                                    imageVector = Icons.Default.CheckCircle,
-                                    contentDescription = "Completed",
-                                    tint = HadraEmerald,
-                                    modifier = Modifier.size(16.dp)
-                                )
-                                Spacer(modifier = Modifier.width(4.dp))
-                                Text(
-                                    text = "Ready",
-                                    fontSize = 12.sp,
-                                    fontWeight = FontWeight.Bold,
-                                    color = HadraEmerald
-                                )
-                            }
-                        } else {
-                            Row(verticalAlignment = Alignment.CenterVertically) {
-                                Icon(
-                                    imageVector = Icons.Default.Pending,
-                                    contentDescription = "Pending",
-                                    tint = HadraSilver,
-                                    modifier = Modifier.size(16.dp)
-                                )
-                                Spacer(modifier = Modifier.width(4.dp))
-                                Text(
-                                    text = "Pending",
-                                    fontSize = 12.sp,
-                                    color = HadraSilver
-                                )
-                            }
+                        Spacer(modifier = Modifier.height(6.dp))
+                        
+                        // Detail text containing authenticity rating and progress detail
+                        Text(
+                            text = meta.progressDetail,
+                            fontSize = 11.sp,
+                            color = HadraSilver,
+                            lineHeight = 15.sp
+                        )
+                        
+                        Spacer(modifier = Modifier.height(4.dp))
+                        
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            horizontalArrangement = Arrangement.SpaceBetween,
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Text(
+                                text = "Authenticity Assessment: ",
+                                fontSize = 10.sp,
+                                color = HadraGray,
+                                fontWeight = FontWeight.Bold
+                            )
+                            Text(
+                                text = meta.authenticity,
+                                fontSize = 10.sp,
+                                color = meta.sourceStatusColor,
+                                fontWeight = FontWeight.Bold
+                            )
                         }
                     }
                 }
